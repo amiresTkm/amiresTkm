@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Amir 👋
 
-<!--
-**amiresTkm/amiresTkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Academic Profile
+- **University of Wollongong in Dubai (UOWD)**
+- **Bachelor of Computer Science (Artificial Intelligence & Big Data)**
+- Focused on building scalable, data-driven solutions and mastering the mathematical foundations of Machine Learning.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Python (Primary), SQL, C++ (Foundational)
+- **Machine Learning:** Scikit-Learn, TensorFlow, Fine-tuning (mT5), XGBoost
+- **Big Data & Tools:** PySpark, Pandas, Git, Jupyter
+- **Specialized Skills:** ML Pipeline Architecture, Data Preprocessing & Cleaning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Key Projects
+- **Scalable ML Pipelines (DLD Data):** Architected a robust valuation engine using Dubai Land Department (DLD) big data, focusing on feature engineering and regression at scale.
+- **Multilingual NLP (mT5):** Specialized in sentiment analysis by fine-tuning mT5 models, optimizing performance for high-dimensional, multilingual text data.
+
+### 📈 Current Learning Path
+- Refining mathematical foundations for ML (Linear Algebra & Probability).
+- Deepening expertise in automated pipeline deployment.
+
+---
+📫 **Connect with me:** https://www.linkedin.com/in/amir-hossein-torkaman-3947832b0?utm_source=share_via&utm_content=profile&utm_medium=member_android
